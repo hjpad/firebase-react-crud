@@ -2,13 +2,13 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "@firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBG_9s2JJDUeBLtMenyPtIBsVLupa8vRB8",
-  authDomain: "fir-tutorial-ad573.firebaseapp.com",
-  projectId: "fir-tutorial-ad573",
-  storageBucket: "fir-tutorial-ad573.appspot.com",
-  messagingSenderId: "459866772432",
-  appId: "1:459866772432:web:b029523d67a8c9f1981fd5",
-  measurementId: "G-2R62T7YE0E",
+  apiKey: "AIzaSyA8OiIRXR1SsIcm_xXsr7KeL69TKQilONo",
+  authDomain: "fir-tutorial-bfd20.firebaseapp.com",
+  projectId: "fir-tutorial-bfd20",
+  storageBucket: "fir-tutorial-bfd20.appspot.com",
+  messagingSenderId: "368405225965",
+  appId: "1:368405225965:web:42b0ab4699454b1cd507e4",
+  measurementId: "G-BKFN04QTVR"
 };
 
 const app = initializeApp(firebaseConfig);
